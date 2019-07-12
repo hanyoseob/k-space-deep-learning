@@ -3,7 +3,6 @@
 *.xcodeproj/project.xcworkspace/xcshareddata/
 mex/*
 mex
-data
 *.o
 *.pyc
 *~
@@ -41,4 +40,3 @@ doc/site/theme/js/npm.js
 *.sdf
 *.opensdf
 doc/figures/svg/*.idraw
-
